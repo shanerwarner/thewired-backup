@@ -1,4 +1,3 @@
 baseURL = 'https://thewired.in'
 languageCode = 'en-us'
 title = 'thewired.in'
-theme = "Blowfish"
